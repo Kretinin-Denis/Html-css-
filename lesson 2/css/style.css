@@ -1,0 +1,22 @@
+.one {
+    color: rgb(130, 42, 165);
+    background: pink;
+    min-height: 20px;
+}
+
+.two {
+    color: rgb(67, 165, 42);
+    /*цвет текста*/
+    font-weight: bold;
+    /*толщина текста*/
+    background: orange;
+    /*цвет заливки*/
+    width: 50%;
+    /*ширина блока*/
+    height: 100px;
+    /*высота блока*/
+    padding: 20px 0 0 0;
+    /*отступы внутри блока*/
+    margin: 40px;
+    /*общий внешний отступ*/
+}
