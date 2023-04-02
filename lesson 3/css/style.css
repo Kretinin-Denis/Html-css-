@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+h1,
+h2 {
+  font-family: Impact, serif; /*тип шрифта*/
+  text-align: center; /*текст посередине*/
+  margin: 40px 0; /* отступ сверху-снизу по 40 справо-лева 0*/
+  /* margin-bottom: 40px;   отступ снизу 40px*/
+}
+p,
+ul {
+  font-size: 18px; /*размер шрифта*/
+  line-height: 150%; /*межстрочный интервал*/
+  margin-bottom: 20px; /*отодвинет следующий текст на 20px*/
+  font-family: Arial, sans-serif;
+}
+ul,
+li {
+  margin-bottom: 20px;
+}
+.container {
+  max-width: 1000px;
+  max-width: 80%;
+  margin: 0 auto;
+}
+.article-img {
+  max-width: 80%;
+  margin: 0 auto;
+  display: block;
+}
+.img-description {
+  text-align: center;
+  font-style: italic;
+  margin: 20px 0 30px 0;
+}
+.text-red {
+  color: red; /*окрашивает текст*/
+}
+.text-bold {
+  font-weight: 800; /*жирный текст*/ 
+}
