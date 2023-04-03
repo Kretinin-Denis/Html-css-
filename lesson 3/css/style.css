@@ -25,7 +25,8 @@ li {
   margin: 0 auto;
 }
 .article-img {
-  max-width: 80%;
+  width: 800px;
+  height: 635px;
   margin: 0 auto;
   display: block;
 }
